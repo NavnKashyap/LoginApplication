@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="login">Login</string>
+    <string name="sign_up" translatable="false">Sign Up</string>
+    <string name="create_account" translatable="false">Don\'t have an account?</string>
+    <string name="password">Password</string>
+    <string name="forgot_passwordQ">Forgot Password?</string>
+    <string name="email">Enter your email</string>
+    <string name="emailt">Email</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="or">OR</string>
+    <string name="signinwith">Sign In With</string>
+    <string name="previous">Previous</string>
+
+
+    <!--InternetDailog-->
+    <string name="no_internet" translatable="false">No Internet !</string>
+    <string name="retry" translatable="false">Retry</string>
+    <string name="internet_connection" translatable="false">Please Enable Your Internet Connection.</string>
+    <string name="please_wait" translatable="false">Please wait</string>
+    <string name="updateprofile" translatable="false">Update Profile</string>
+    <string name="ok" translatable="false">Ok</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+
+    <string name="sign_in" translatable="false">Sign In</string>
+
+
+    <string name="val_password" translatable="false">Enter Valid password</string>
+    <string name="ent_password" translatable="false">Please enter password</string>
+    <string name="val_email" translatable="false">Please enter email</string>
+</resources>

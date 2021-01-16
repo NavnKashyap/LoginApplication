@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#120924</color>
+    <color name="colorPrimaryDark">#0A0415</color>
+    <color name="colorAccent">#104F9E</color>
+    <color name="colorAccent1">#104F9E</color>
+
+    <color name="white">#ffffff</color>
+    <color name="blue">#03A9F4</color>
+    <color name="blueLight">#62C9F8</color>
+    <color name="off_white">#F1F1F1</color>
+    <color name="black_off">#FF000000</color>
+    <color name="back_colour">#231641</color>
+    <color name="off_gray">#DEDEDE</color>
+    <color name="windowBackground">#1C1C1C</color>
+    <color name="overlay">#AA1C1C1C</color>
+    <color name="divider">#333333</color>
+    <color name="yellow">#CDC000</color>
+    <color name="light_gray">#DFDFDF</color>
+    <color name="search_back">#DFDFDF</color>
+    <color name="productback">#f9f8f8</color>
+    <color name="icon_color">#898592</color>
+    <color name="status_bar_color">#FFFFFF</color>
+    <color name="dark_bg">#2D324F</color>
+    <color name="red">#ff3647</color>
+    <color name="black">#1E1E1E</color>
+    <color name="gray">#969696</color>
+    <color name="editback">#f1f1f1</color>
+    <color name="editketext">#383838</color>
+    <color name="green">#22cb4a</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="grey_60">#AFAFAF</color>
+
+    <color name="chat_out">#c4ccf8</color>
+    <color name="chat_in">#e0e3e6</color>
+    <color name="dark_blue">#5200D8</color>
+    <color name="dark_red">#811700</color>
+
+    <color name="reds">#FF2D00</color>
+    <color name="purple">#730273</color>
+    <color name="transparentMy">#00000000</color>
+    <color name="transparent_primary">#99120924</color>
+    <color name="start_colour">#ff005f</color>
+    <color name="start_colour_pink">#470088</color>
+    <color name="End_colour">#ff8f00</color>
+    <color name="End_colour_pink">#c200b4</color>
+
+
+</resources>
